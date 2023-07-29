@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Social-media-frontend/static/css/main.d66f6390.css",
+    "main.js": "/Social-media-frontend/static/js/main.88dea191.js",
+    "static/js/705.9cfedcf5.chunk.js": "/Social-media-frontend/static/js/705.9cfedcf5.chunk.js",
+    "static/js/103.9917413b.chunk.js": "/Social-media-frontend/static/js/103.9917413b.chunk.js",
+    "static/js/794.37ddb879.chunk.js": "/Social-media-frontend/static/js/794.37ddb879.chunk.js",
+    "static/js/809.948176fd.chunk.js": "/Social-media-frontend/static/js/809.948176fd.chunk.js",
+    "static/js/384.17b9ec28.chunk.js": "/Social-media-frontend/static/js/384.17b9ec28.chunk.js",
+    "static/js/29.db7a74a7.chunk.js": "/Social-media-frontend/static/js/29.db7a74a7.chunk.js",
+    "static/js/528.a8f909ef.chunk.js": "/Social-media-frontend/static/js/528.a8f909ef.chunk.js",
+    "static/js/559.5492b997.chunk.js": "/Social-media-frontend/static/js/559.5492b997.chunk.js",
+    "static/js/522.f1764f22.chunk.js": "/Social-media-frontend/static/js/522.f1764f22.chunk.js",
+    "static/js/70.b3d048e0.chunk.js": "/Social-media-frontend/static/js/70.b3d048e0.chunk.js",
+    "service-worker.js": "/Social-media-frontend/service-worker.js",
+    "index.html": "/Social-media-frontend/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d66f6390.css",
+    "static/js/main.88dea191.js"
+  ]
+}
